@@ -20,6 +20,7 @@ class ViewController: UIViewController {
     @IBAction func next() {
         
         //MARK: nextを5回連続で押すと落ちる
+        //MARK: 「6番目のボタンを押すと落ちる」ができてなかったら、if index < 4 でも正解
         if index < 5 {
             
             index = index + 1
