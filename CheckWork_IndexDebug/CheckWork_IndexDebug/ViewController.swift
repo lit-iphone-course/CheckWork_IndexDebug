@@ -1,3 +1,5 @@
+//MARK: プロジェクトに潜むエラーを発見して、アプリが動くようにしよう！
+
 import UIKit
 
 class ViewController: UIViewController {

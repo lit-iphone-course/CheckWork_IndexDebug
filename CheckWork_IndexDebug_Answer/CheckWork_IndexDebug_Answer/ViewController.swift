@@ -42,7 +42,7 @@ class ViewController: UIViewController {
         index = 0
         label.text = nameArray[index]
     }
-    
+    //MARK: 関連付けされていない
     @IBAction func second() {
         
         index = 1
